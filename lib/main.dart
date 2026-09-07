@@ -20,7 +20,6 @@ class CurrencyConverterApp extends StatelessWidget {
     );
   }
 }
-
 class CurrencyConverterScreen extends StatefulWidget {
   const CurrencyConverterScreen({super.key});
 
